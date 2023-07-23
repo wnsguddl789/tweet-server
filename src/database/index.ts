@@ -1,0 +1,1 @@
+export { SnakeNamingStrategy } from './strategies';
